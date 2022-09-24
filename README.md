@@ -8,10 +8,10 @@
 
 ## Screenshots
 
-### Light
-
-![Light theme](https://github.com/itsgg/obsidian-default-plus/raw/main/screenshots/light.png)
-
 ### Dark
 
 ![Dark theme](https://github.com/itsgg/obsidian-default-plus/raw/main/screenshots/dark.png)
+
+### Light
+
+![Light theme](https://github.com/itsgg/obsidian-default-plus/raw/main/screenshots/light.png)
