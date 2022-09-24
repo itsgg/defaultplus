@@ -3,7 +3,7 @@
 ## Installation
 
 - In Obsidian, click `"Settings -> Appearance"`.
-- Under `"CSS Snippets"`, click `Open snippets folder`.
+- Under `"CSS Snippets"`, click `"Open snippets folder"`.
 - Copy `"obsidian.css"` file into the `"snippets"` folder.
 - Change your default colour scheme to `"Light"` or `"Dark"`.
 
