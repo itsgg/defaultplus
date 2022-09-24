@@ -2,9 +2,10 @@
 
 ## Installation
 
-- Download obsidian.css to your Obsidian vault folder
-- In Obsidian, click Settings -> Plugins make sure Custom CSS is enabled
-- Pick either light or dark theme in Obsidian's appearance settings!
+- In Obsidian, click `"Settings -> Appearance"`.
+- Under `"CSS Snippets"`, click `Open snippets folder`.
+- Copy `"obsidian.css"` file into the `"snippets"` folder.
+- Change your default colour scheme to `"Light"` or `"Dark"`.
 
 ## Screenshots
 
